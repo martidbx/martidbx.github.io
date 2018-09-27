@@ -1731,8 +1731,8 @@ body {
   color: #efefef;
 }
 .cid-qTkAaeaxX5 {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #4e1568;
 }
 @media (max-width: 767px) {
@@ -1796,6 +1796,9 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 H5 {
+  color: #efefef;
 }
 .cid-r4Sp5RpHzb {
   background-color: #4e1568;
