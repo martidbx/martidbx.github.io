@@ -2768,6 +2768,169 @@ body {
   padding-bottom: 120px;
   background-image: url("../../../assets/images/mbr-1920x1080.jpg");
 }
+.cid-r4T9hrR5SS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #4e1568;
+}
+.cid-r4T9hrR5SS .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-r4T9hrR5SS .input {
+  margin-bottom: 15px;
+}
+.cid-r4T9hrR5SS .map {
+  width: 100%;
+  height: 30rem;
+}
+.cid-r4T9hrR5SS .map iframe {
+  width: inherit;
+  height: 100%;
+}
+.cid-r4T9hrR5SS .icon-block {
+  margin-bottom: 10px;
+  display: -webkit-flex;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-r4T9hrR5SS .icon-block .icon-block__icon {
+  display: inline-block;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-r4T9hrR5SS .icon-block .icon-block__title {
+  display: inline-block;
+  align-self: center;
+  -webkit-align-self: center;
+  margin-bottom: 0;
+  line-height: 1;
+  font-style: italic;
+}
+.cid-r4T9hrR5SS .mbr-text {
+  color: #efefef;
+}
+.cid-r4T9hrR5SS a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-r4T9hrR5SS .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-r4T9hrR5SS .input-group-btn {
+  display: block;
+  text-align: center;
+}
+.cid-r4T9hrR5SS .google-map {
+  height: 25rem;
+  position: relative;
+}
+.cid-r4T9hrR5SS .google-map iframe {
+  height: 100%;
+  width: 100%;
+}
+.cid-r4T9hrR5SS .google-map [data-state-details] {
+  color: #6b6763;
+  font-family: Montserrat;
+  height: 1.5em;
+  margin-top: -0.75em;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+}
+.cid-r4T9hrR5SS .google-map[data-state] {
+  background: #e9e5dc;
+}
+.cid-r4T9hrR5SS .google-map[data-state="loading"] [data-state-details] {
+  display: none;
+}
+@media (max-width: 767px) {
+  .cid-r4T9hrR5SS h2 {
+    padding-top: 2rem;
+  }
+}
+@media (min-width: 768px) {
+  .cid-r4T9hrR5SS .container > .row > .col-md-6:first-child {
+    padding-right: 30px;
+  }
+  .cid-r4T9hrR5SS .container > .row > .col-md-6:last-child {
+    padding-left: 30px;
+  }
+}
+.cid-r4T9hrR5SS H2 {
+  color: #efefef;
+}
+.cid-r4T9hrR5SS H4 {
+  color: #efefef;
+}
+.cid-r4T9hrR5SS H5 {
+  color: #efefef;
+}
+.cid-r4T9k3zh7R {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7851a9, #4e1568);
+}
+.cid-r4T9k3zh7R .mbr-iconfont-social {
+  font-size: 32px;
+  color: #efefef;
+}
+.cid-r4T9k3zh7R .social-list a:focus {
+  text-decoration: none;
+}
+.cid-r4T9k3zh7R H2 {
+  color: #efefef;
+}
+.cid-r4T9lSSelP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/accessory-anniversary-band-265856-2000x1333.jpg");
+}
+.cid-r4T9lSSelP .testimonials-container {
+  margin: 0 auto;
+}
+.cid-r4T9lSSelP .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
+}
+.cid-r4T9lSSelP .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-r4T9lSSelP .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-r4T9lSSelP .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-r4T9lSSelP .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-r4T9lSSelP .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-r4T9lSSelP .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-r4T9lSSelP .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
 .cid-r4T1dHQIvu {
   padding-top: 30px;
   padding-bottom: 0px;
