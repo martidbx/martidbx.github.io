@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page9.html",
+    "currentPage": "event_management.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3823,7 +3823,8 @@
               "color": "#efefef"
             },
             ".count P": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "text-align": "left"
             }
           },
           "_name": "counters2",
