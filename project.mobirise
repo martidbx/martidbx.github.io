@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5695,6 +5695,9 @@
             },
             "B": {
               "color": "#efefef"
+            },
+            "P": {
+              "color": "#efefef"
             }
           },
           "_name": "content2",
@@ -9714,6 +9717,9 @@
               "color": "#767676"
             },
             "B": {
+              "color": "#efefef"
+            },
+            "P": {
               "color": "#efefef"
             }
           },
