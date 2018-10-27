@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "exhibitions.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -818,10 +818,10 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
-                "title": "Gala Dinner",
+                "title": "Al Hilal Engineering Gala Dinner",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "lalalala",
+                "text": "This celebratory evening is the highlight of Al Hilal Engineering as industry excellence and a celebration of networking atmosphere with employees and clients.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayColor": "#5b686b",
                 "overlayOpacity": "0.4"
